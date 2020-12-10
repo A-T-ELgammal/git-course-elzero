@@ -1,0 +1,10 @@
+git status 
+git add *file name with extention
+git commit -m "comment to know what you did before"
+git config --global --user.email "----"
+git config --global --user.name "----"
+git config --global --edit
+touch "file-name.extention"
+git branch
+git remote -v
+
